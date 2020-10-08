@@ -1,0 +1,1 @@
+/data directory is created for dataset storage purpouses
